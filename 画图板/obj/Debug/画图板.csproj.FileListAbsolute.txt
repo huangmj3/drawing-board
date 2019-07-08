@@ -1,0 +1,10 @@
+E:\C#工作站\画图板\画图板\bin\Debug\画图板.exe.config
+E:\C#工作站\画图板\画图板\bin\Debug\画图板.exe
+E:\C#工作站\画图板\画图板\bin\Debug\画图板.pdb
+E:\C#工作站\画图板\画图板\obj\Debug\画图板.csprojAssemblyReference.cache
+E:\C#工作站\画图板\画图板\obj\Debug\画图板.Form1.resources
+E:\C#工作站\画图板\画图板\obj\Debug\画图板.Properties.Resources.resources
+E:\C#工作站\画图板\画图板\obj\Debug\画图板.csproj.GenerateResource.cache
+E:\C#工作站\画图板\画图板\obj\Debug\画图板.csproj.CoreCompileInputs.cache
+E:\C#工作站\画图板\画图板\obj\Debug\画图板.exe
+E:\C#工作站\画图板\画图板\obj\Debug\画图板.pdb
